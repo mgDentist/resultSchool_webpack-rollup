@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(24, 24, 24);
+}
+
+.main__title {
+    font-size: 26px;
+    font-family: PT Sans, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 60px;
+    color: white;
+}
+
+.main__img {
+    display: block;
+}
